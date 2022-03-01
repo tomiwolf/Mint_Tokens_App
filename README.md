@@ -15,3 +15,5 @@ El proyecto busca ser una aplicación con la que los desarrolladores de smart co
 * Hardhat
 * Node.js
 
+![](./screenshot.png)
+
